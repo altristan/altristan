@@ -1,4 +1,4 @@
-I am an engineering professional with a strong interest in software development and machine learning. Skilled in Python, JavaScript, C. I am currently a university research associate tasked with building web applications and developing machine learning models.
+I am an engineering professional with a strong interest in software development. Skilled in Python, JavaScript, C. I am currently a university research associate tasked with building web applications and ETL jobs for data lake using AWS.
 
 <!--
 **altristan/altristan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
