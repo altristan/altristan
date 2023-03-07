@@ -1,4 +1,4 @@
-I am an engineering professional with a strong interest in software development and computer networking. I am currently working as a project staff in the academe tasked with the design, configuration, and management of a secure and resilient network infrastructure, as well as the development and configuration of an on-premise HPC. I also develop web applications geared towards providing users with access to various AI related utilities.
+I am an engineering professional with a strong interest in software development and computer networking. I am currently working as a project staff in the academe tasked with the design, configuration, and management of a secure and resilient network infrastructure, as well as the development and configuration of an on-premise HPC. I also develop web applications aimed at providing users with access to various AI-related utilities.
 
 <!--
 **altristan/altristan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
